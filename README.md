@@ -22,7 +22,7 @@ pod 'QwaryKit'
 
 ## Author
 
-vishal@qwary.com, Support@qwary.com
+Qwary Team Support@qwary.com
 
 ## License
 

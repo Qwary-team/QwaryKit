@@ -7,12 +7,13 @@
 //
 
 import UIKit
-
+import QwaryKit
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        Qwary.configure(context: self, qwSettings: "App_Id")
     }
 
     override func didReceiveMemoryWarning() {

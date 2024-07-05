@@ -1,0 +1,6 @@
+framework module Pods_QwaryKit_Tests {
+  umbrella header "Pods-QwaryKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

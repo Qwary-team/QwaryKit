@@ -1,0 +1,6 @@
+framework module QwaryKit {
+  umbrella header "QwaryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

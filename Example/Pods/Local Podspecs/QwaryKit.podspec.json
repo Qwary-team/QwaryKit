@@ -1,0 +1,22 @@
+{
+  "name": "QwaryKit",
+  "version": "0.1.0",
+  "summary": "A short description of QwaryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/vishal@qwary.com/QwaryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "vishal@qwary.com": "Support@qwary.com"
+  },
+  "source": {
+    "git": "https://github.com/vishal@qwary.com/QwaryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "QwaryKit/Classes/**/*"
+}

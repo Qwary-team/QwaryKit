@@ -1,0 +1,16 @@
+PODS:
+  - QwaryKit (0.1.0)
+
+DEPENDENCIES:
+  - QwaryKit (from `../`)
+
+EXTERNAL SOURCES:
+  QwaryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  QwaryKit: 066f712897a7498b8837e3be0d9081dd84b377f0
+
+PODFILE CHECKSUM: e412e92e91f2732b9da4c96b6068c96ed59fea22
+
+COCOAPODS: 1.15.2

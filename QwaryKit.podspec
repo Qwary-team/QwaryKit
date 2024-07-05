@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'QwaryKit'
-  s.version          = '0.1.0'
+  s.version          = '15.0.1'
   s.summary          = 'An SDK to configure the Survey on customising Screen where the user can'
 
 # This description is used to generate tags and improve search results.

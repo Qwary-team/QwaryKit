@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'QwaryKit_Example' do
+  pod 'QwaryKit', :path => '../'
+
+  target 'QwaryKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

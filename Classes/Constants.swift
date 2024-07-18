@@ -15,7 +15,7 @@ func getInitScript(appId: String) -> String
 {
 //    let srcroot = URL(fileURLWithPath: #file).deletingLastPathComponent()
 //        .deletingLastPathComponent()
-    var url = "https://static.qwary.com/resources/sdk/mobile_intercept/qw.intercept.sdk.js"
+    let url = "https://static.qwary.com/resources/sdk/mobile_intercept/qw.intercept.sdk.js"
     return """
   var app_id = "\(appId)";
   window.qwSettings = {
